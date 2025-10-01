@@ -32,7 +32,7 @@ The entire project was built on **Google Colab using only my phone**, and it's p
 
 ## 🙋 About Me
 
-I’m a student in scotland learning to become a ML engineer
+I’m a student in scotland discovering ML
 
 ---
 
